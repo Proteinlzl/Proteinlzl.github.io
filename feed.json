@@ -1,0 +1,70 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "宣传网站",
+    "subtitle": "宣传",
+    "icon": "http://yoursite.com/images/favicon.ico",
+    "description": "这是宣传网站",
+    "home_page_url": "http://yoursite.com",
+    "items": [
+        {
+            "id": "http://yoursite.com/activities/test-activities/",
+            "url": "http://yoursite.com/activities/test-activities/",
+            "title": "test culture",
+            "date_published": "2020-04-30T23:00:00.000Z",
+            "content_html": "<h1 id=\"测试文档\"><a class=\"anchor\" href=\"#测试文档\">#</a> 测试文档</h1>\n<p>Orz</p>\n",
+            "tags": [
+                "校园活动"
+            ]
+        },
+        {
+            "id": "http://yoursite.com/culture/test-culture/",
+            "url": "http://yoursite.com/culture/test-culture/",
+            "title": "test culture",
+            "date_published": "2020-04-30T23:00:00.000Z",
+            "content_html": "<h1 id=\"测试文档\"><a class=\"anchor\" href=\"#测试文档\">#</a> 测试文档</h1>\n<p>Orz</p>\n",
+            "tags": [
+                "校园文化"
+            ]
+        },
+        {
+            "id": "http://yoursite.com/environment/test-environment/",
+            "url": "http://yoursite.com/environment/test-environment/",
+            "title": "test culture",
+            "date_published": "2020-04-30T23:00:00.000Z",
+            "content_html": "<h1 id=\"测试文档\"><a class=\"anchor\" href=\"#测试文档\">#</a> 测试文档</h1>\n<p>Orz</p>\n",
+            "tags": [
+                "校园环境"
+            ]
+        },
+        {
+            "id": "http://yoursite.com/honors/test-honors/",
+            "url": "http://yoursite.com/honors/test-honors/",
+            "title": "test culture",
+            "date_published": "2020-04-30T23:00:00.000Z",
+            "content_html": "<h1 id=\"测试文档\"><a class=\"anchor\" href=\"#测试文档\">#</a> 测试文档</h1>\n<p>Orz</p>\n",
+            "tags": [
+                "获得荣誉"
+            ]
+        },
+        {
+            "id": "http://yoursite.com/person/test-person/",
+            "url": "http://yoursite.com/person/test-person/",
+            "title": "test culture",
+            "date_published": "2020-04-30T23:00:00.000Z",
+            "content_html": "<h1 id=\"测试文档\"><a class=\"anchor\" href=\"#测试文档\">#</a> 测试文档</h1>\n<p>Orz</p>\n",
+            "tags": [
+                "杰出人物"
+            ]
+        },
+        {
+            "id": "http://yoursite.com/teachers/test-teachers/",
+            "url": "http://yoursite.com/teachers/test-teachers/",
+            "title": "test culture",
+            "date_published": "2020-04-30T23:00:00.000Z",
+            "content_html": "<h1 id=\"测试文档\"><a class=\"anchor\" href=\"#测试文档\">#</a> 测试文档</h1>\n<p>Orz</p>\n",
+            "tags": [
+                "师资力量"
+            ]
+        }
+    ]
+}

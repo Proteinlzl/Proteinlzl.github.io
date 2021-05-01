@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>宣传网站</title>
+        <subtitle>宣传</subtitle>
+        <icon>http://yoursite.com/images/favicon.ico</icon>
+        <link>http://yoursite.com</link>
+        <author>
+          <name>吉林市第一中学</name>
+        </author>
+        <description>这是宣传网站</description>
+        <language>zh-CN</language>
+        <pubDate>Fri, 01 May 2020 07:00:00 +0800</pubDate>
+        <lastBuildDate>Fri, 01 May 2020 07:00:00 +0800</lastBuildDate>
+        <category term="关键词1" />
+        <category term="关键词2" />
+        <item>
+            <guid isPermalink="true">http://yoursite.com/activities/test-activities/</guid>
+            <title>test culture</title>
+            <link>http://yoursite.com/activities/test-activities/</link>
+            <category term="校园活动" scheme="http://yoursite.com/categories/activities/" />
+            <pubDate>Fri, 01 May 2020 07:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;测试文档&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#测试文档&#34;&gt;#&lt;/a&gt; 测试文档&lt;/h1&gt;
+&lt;p&gt;Orz&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://yoursite.com/culture/test-culture/</guid>
+            <title>test culture</title>
+            <link>http://yoursite.com/culture/test-culture/</link>
+            <category term="校园文化" scheme="http://yoursite.com/categories/culture/" />
+            <pubDate>Fri, 01 May 2020 07:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;测试文档&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#测试文档&#34;&gt;#&lt;/a&gt; 测试文档&lt;/h1&gt;
+&lt;p&gt;Orz&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://yoursite.com/environment/test-environment/</guid>
+            <title>test culture</title>
+            <link>http://yoursite.com/environment/test-environment/</link>
+            <category term="校园环境" scheme="http://yoursite.com/categories/environment/" />
+            <pubDate>Fri, 01 May 2020 07:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;测试文档&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#测试文档&#34;&gt;#&lt;/a&gt; 测试文档&lt;/h1&gt;
+&lt;p&gt;Orz&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://yoursite.com/honors/test-honors/</guid>
+            <title>test culture</title>
+            <link>http://yoursite.com/honors/test-honors/</link>
+            <category term="获得荣誉" scheme="http://yoursite.com/categories/honors/" />
+            <pubDate>Fri, 01 May 2020 07:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;测试文档&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#测试文档&#34;&gt;#&lt;/a&gt; 测试文档&lt;/h1&gt;
+&lt;p&gt;Orz&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://yoursite.com/person/test-person/</guid>
+            <title>test culture</title>
+            <link>http://yoursite.com/person/test-person/</link>
+            <category term="杰出人物" scheme="http://yoursite.com/categories/person/" />
+            <pubDate>Fri, 01 May 2020 07:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;测试文档&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#测试文档&#34;&gt;#&lt;/a&gt; 测试文档&lt;/h1&gt;
+&lt;p&gt;Orz&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://yoursite.com/teachers/test-teachers/</guid>
+            <title>test culture</title>
+            <link>http://yoursite.com/teachers/test-teachers/</link>
+            <category term="师资力量" scheme="http://yoursite.com/categories/teachers/" />
+            <pubDate>Fri, 01 May 2020 07:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;测试文档&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#测试文档&#34;&gt;#&lt;/a&gt; 测试文档&lt;/h1&gt;
+&lt;p&gt;Orz&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
