@@ -3,8 +3,8 @@
     <channel>
         <title>宣传网站</title>
         <subtitle>宣传</subtitle>
-        <icon>http://yoursite.com/images/favicon.ico</icon>
-        <link>http://yoursite.com</link>
+        <icon>http://proteinlzl.github.io/images/favicon.ico</icon>
+        <link>http://proteinlzl.github.io</link>
         <author>
           <name>吉林市第一中学</name>
         </author>
@@ -15,60 +15,60 @@
         <category term="关键词1" />
         <category term="关键词2" />
         <item>
-            <guid isPermalink="true">http://yoursite.com/activities/test-activities/</guid>
+            <guid isPermalink="true">http://proteinlzl.github.io/activities/test-activities/</guid>
             <title>test culture</title>
-            <link>http://yoursite.com/activities/test-activities/</link>
-            <category term="校园活动" scheme="http://yoursite.com/categories/activities/" />
+            <link>http://proteinlzl.github.io/activities/test-activities/</link>
+            <category term="校园活动" scheme="http://proteinlzl.github.io/categories/activities/" />
             <pubDate>Fri, 01 May 2020 07:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;测试文档&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#测试文档&#34;&gt;#&lt;/a&gt; 测试文档&lt;/h1&gt;
 &lt;p&gt;Orz&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://yoursite.com/culture/test-culture/</guid>
+            <guid isPermalink="true">http://proteinlzl.github.io/culture/test-culture/</guid>
             <title>test culture</title>
-            <link>http://yoursite.com/culture/test-culture/</link>
-            <category term="校园文化" scheme="http://yoursite.com/categories/culture/" />
+            <link>http://proteinlzl.github.io/culture/test-culture/</link>
+            <category term="校园文化" scheme="http://proteinlzl.github.io/categories/culture/" />
             <pubDate>Fri, 01 May 2020 07:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;测试文档&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#测试文档&#34;&gt;#&lt;/a&gt; 测试文档&lt;/h1&gt;
 &lt;p&gt;Orz&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://yoursite.com/environment/test-environment/</guid>
+            <guid isPermalink="true">http://proteinlzl.github.io/environment/test-environment/</guid>
             <title>test culture</title>
-            <link>http://yoursite.com/environment/test-environment/</link>
-            <category term="校园环境" scheme="http://yoursite.com/categories/environment/" />
+            <link>http://proteinlzl.github.io/environment/test-environment/</link>
+            <category term="校园环境" scheme="http://proteinlzl.github.io/categories/environment/" />
             <pubDate>Fri, 01 May 2020 07:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;测试文档&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#测试文档&#34;&gt;#&lt;/a&gt; 测试文档&lt;/h1&gt;
 &lt;p&gt;Orz&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://yoursite.com/honors/test-honors/</guid>
+            <guid isPermalink="true">http://proteinlzl.github.io/honors/test-honors/</guid>
             <title>test culture</title>
-            <link>http://yoursite.com/honors/test-honors/</link>
-            <category term="获得荣誉" scheme="http://yoursite.com/categories/honors/" />
+            <link>http://proteinlzl.github.io/honors/test-honors/</link>
+            <category term="获得荣誉" scheme="http://proteinlzl.github.io/categories/honors/" />
             <pubDate>Fri, 01 May 2020 07:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;测试文档&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#测试文档&#34;&gt;#&lt;/a&gt; 测试文档&lt;/h1&gt;
 &lt;p&gt;Orz&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://yoursite.com/person/test-person/</guid>
+            <guid isPermalink="true">http://proteinlzl.github.io/person/test-person/</guid>
             <title>test culture</title>
-            <link>http://yoursite.com/person/test-person/</link>
-            <category term="杰出人物" scheme="http://yoursite.com/categories/person/" />
+            <link>http://proteinlzl.github.io/person/test-person/</link>
+            <category term="杰出人物" scheme="http://proteinlzl.github.io/categories/person/" />
             <pubDate>Fri, 01 May 2020 07:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;测试文档&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#测试文档&#34;&gt;#&lt;/a&gt; 测试文档&lt;/h1&gt;
 &lt;p&gt;Orz&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://yoursite.com/teachers/test-teachers/</guid>
+            <guid isPermalink="true">http://proteinlzl.github.io/teachers/test-teachers/</guid>
             <title>test culture</title>
-            <link>http://yoursite.com/teachers/test-teachers/</link>
-            <category term="师资力量" scheme="http://yoursite.com/categories/teachers/" />
+            <link>http://proteinlzl.github.io/teachers/test-teachers/</link>
+            <category term="师资力量" scheme="http://proteinlzl.github.io/categories/teachers/" />
             <pubDate>Fri, 01 May 2020 07:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;测试文档&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#测试文档&#34;&gt;#&lt;/a&gt; 测试文档&lt;/h1&gt;
 &lt;p&gt;Orz&lt;/p&gt;

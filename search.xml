@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>test culture</title>
+    <url>/activities/test-activities/</url>
+    <content><![CDATA[<h1 id="测试文档"><a class="anchor" href="#测试文档">#</a> 测试文档</h1>
+<p>Orz</p>
+]]></content>
+      <categories>
+        <category>校园活动</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>test culture</title>
+    <url>/culture/test-culture/</url>
+    <content><![CDATA[<h1 id="测试文档"><a class="anchor" href="#测试文档">#</a> 测试文档</h1>
+<p>Orz</p>
+]]></content>
+      <categories>
+        <category>校园文化</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>test culture</title>
+    <url>/environment/test-environment/</url>
+    <content><![CDATA[<h1 id="测试文档"><a class="anchor" href="#测试文档">#</a> 测试文档</h1>
+<p>Orz</p>
+]]></content>
+      <categories>
+        <category>校园环境</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>test culture</title>
+    <url>/honors/test-honors/</url>
+    <content><![CDATA[<h1 id="测试文档"><a class="anchor" href="#测试文档">#</a> 测试文档</h1>
+<p>Orz</p>
+]]></content>
+      <categories>
+        <category>获得荣誉</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>test culture</title>
+    <url>/person/test-person/</url>
+    <content><![CDATA[<h1 id="测试文档"><a class="anchor" href="#测试文档">#</a> 测试文档</h1>
+<p>Orz</p>
+]]></content>
+      <categories>
+        <category>杰出人物</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>test culture</title>
+    <url>/teachers/test-teachers/</url>
+    <content><![CDATA[<h1 id="测试文档"><a class="anchor" href="#测试文档">#</a> 测试文档</h1>
+<p>Orz</p>
+]]></content>
+      <categories>
+        <category>师资力量</category>
+      </categories>
+  </entry>
+</search>

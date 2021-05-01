@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://yoursite.com</id>
+    <id>http://proteinlzl.github.io</id>
     <title>宣传网站</title>
     <subtitle>宣传</subtitle>
-    <icon>http://yoursite.com/images/favicon.ico</icon>
-    <link href="http://yoursite.com" />
+    <icon>http://proteinlzl.github.io/images/favicon.ico</icon>
+    <link href="http://proteinlzl.github.io" />
     <author>
       <name>吉林市第一中学</name>
     </author>
@@ -12,63 +12,63 @@
     <category term="关键词1" />
     <category term="关键词2" />
     <entry>
-        <id>http://yoursite.com/activities/test-activities/</id>
+        <id>http://proteinlzl.github.io/activities/test-activities/</id>
         <title>test culture</title>
-        <link rel="alternate" href="http://yoursite.com/activities/test-activities/"/>
+        <link rel="alternate" href="http://proteinlzl.github.io/activities/test-activities/"/>
         <content type="html">&lt;h1 id=&#34;测试文档&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#测试文档&#34;&gt;#&lt;/a&gt; 测试文档&lt;/h1&gt;
 &lt;p&gt;Orz&lt;/p&gt;
 </content>
-        <category term="校园活动" scheme="http://yoursite.com/categories/activities/" />
+        <category term="校园活动" scheme="http://proteinlzl.github.io/categories/activities/" />
         <updated>2020-04-30T23:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/culture/test-culture/</id>
+        <id>http://proteinlzl.github.io/culture/test-culture/</id>
         <title>test culture</title>
-        <link rel="alternate" href="http://yoursite.com/culture/test-culture/"/>
+        <link rel="alternate" href="http://proteinlzl.github.io/culture/test-culture/"/>
         <content type="html">&lt;h1 id=&#34;测试文档&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#测试文档&#34;&gt;#&lt;/a&gt; 测试文档&lt;/h1&gt;
 &lt;p&gt;Orz&lt;/p&gt;
 </content>
-        <category term="校园文化" scheme="http://yoursite.com/categories/culture/" />
+        <category term="校园文化" scheme="http://proteinlzl.github.io/categories/culture/" />
         <updated>2020-04-30T23:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/environment/test-environment/</id>
+        <id>http://proteinlzl.github.io/environment/test-environment/</id>
         <title>test culture</title>
-        <link rel="alternate" href="http://yoursite.com/environment/test-environment/"/>
+        <link rel="alternate" href="http://proteinlzl.github.io/environment/test-environment/"/>
         <content type="html">&lt;h1 id=&#34;测试文档&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#测试文档&#34;&gt;#&lt;/a&gt; 测试文档&lt;/h1&gt;
 &lt;p&gt;Orz&lt;/p&gt;
 </content>
-        <category term="校园环境" scheme="http://yoursite.com/categories/environment/" />
+        <category term="校园环境" scheme="http://proteinlzl.github.io/categories/environment/" />
         <updated>2020-04-30T23:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/honors/test-honors/</id>
+        <id>http://proteinlzl.github.io/honors/test-honors/</id>
         <title>test culture</title>
-        <link rel="alternate" href="http://yoursite.com/honors/test-honors/"/>
+        <link rel="alternate" href="http://proteinlzl.github.io/honors/test-honors/"/>
         <content type="html">&lt;h1 id=&#34;测试文档&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#测试文档&#34;&gt;#&lt;/a&gt; 测试文档&lt;/h1&gt;
 &lt;p&gt;Orz&lt;/p&gt;
 </content>
-        <category term="获得荣誉" scheme="http://yoursite.com/categories/honors/" />
+        <category term="获得荣誉" scheme="http://proteinlzl.github.io/categories/honors/" />
         <updated>2020-04-30T23:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/person/test-person/</id>
+        <id>http://proteinlzl.github.io/person/test-person/</id>
         <title>test culture</title>
-        <link rel="alternate" href="http://yoursite.com/person/test-person/"/>
+        <link rel="alternate" href="http://proteinlzl.github.io/person/test-person/"/>
         <content type="html">&lt;h1 id=&#34;测试文档&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#测试文档&#34;&gt;#&lt;/a&gt; 测试文档&lt;/h1&gt;
 &lt;p&gt;Orz&lt;/p&gt;
 </content>
-        <category term="杰出人物" scheme="http://yoursite.com/categories/person/" />
+        <category term="杰出人物" scheme="http://proteinlzl.github.io/categories/person/" />
         <updated>2020-04-30T23:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/teachers/test-teachers/</id>
+        <id>http://proteinlzl.github.io/teachers/test-teachers/</id>
         <title>test culture</title>
-        <link rel="alternate" href="http://yoursite.com/teachers/test-teachers/"/>
+        <link rel="alternate" href="http://proteinlzl.github.io/teachers/test-teachers/"/>
         <content type="html">&lt;h1 id=&#34;测试文档&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#测试文档&#34;&gt;#&lt;/a&gt; 测试文档&lt;/h1&gt;
 &lt;p&gt;Orz&lt;/p&gt;
 </content>
-        <category term="师资力量" scheme="http://yoursite.com/categories/teachers/" />
+        <category term="师资力量" scheme="http://proteinlzl.github.io/categories/teachers/" />
         <updated>2020-04-30T23:00:00.000Z</updated>
     </entry>
 </feed>

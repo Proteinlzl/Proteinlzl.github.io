@@ -2,13 +2,13 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "宣传网站",
     "subtitle": "宣传",
-    "icon": "http://yoursite.com/images/favicon.ico",
+    "icon": "http://proteinlzl.github.io/images/favicon.ico",
     "description": "这是宣传网站",
-    "home_page_url": "http://yoursite.com",
+    "home_page_url": "http://proteinlzl.github.io",
     "items": [
         {
-            "id": "http://yoursite.com/activities/test-activities/",
-            "url": "http://yoursite.com/activities/test-activities/",
+            "id": "http://proteinlzl.github.io/activities/test-activities/",
+            "url": "http://proteinlzl.github.io/activities/test-activities/",
             "title": "test culture",
             "date_published": "2020-04-30T23:00:00.000Z",
             "content_html": "<h1 id=\"测试文档\"><a class=\"anchor\" href=\"#测试文档\">#</a> 测试文档</h1>\n<p>Orz</p>\n",
@@ -17,8 +17,8 @@
             ]
         },
         {
-            "id": "http://yoursite.com/culture/test-culture/",
-            "url": "http://yoursite.com/culture/test-culture/",
+            "id": "http://proteinlzl.github.io/culture/test-culture/",
+            "url": "http://proteinlzl.github.io/culture/test-culture/",
             "title": "test culture",
             "date_published": "2020-04-30T23:00:00.000Z",
             "content_html": "<h1 id=\"测试文档\"><a class=\"anchor\" href=\"#测试文档\">#</a> 测试文档</h1>\n<p>Orz</p>\n",
@@ -27,8 +27,8 @@
             ]
         },
         {
-            "id": "http://yoursite.com/environment/test-environment/",
-            "url": "http://yoursite.com/environment/test-environment/",
+            "id": "http://proteinlzl.github.io/environment/test-environment/",
+            "url": "http://proteinlzl.github.io/environment/test-environment/",
             "title": "test culture",
             "date_published": "2020-04-30T23:00:00.000Z",
             "content_html": "<h1 id=\"测试文档\"><a class=\"anchor\" href=\"#测试文档\">#</a> 测试文档</h1>\n<p>Orz</p>\n",
@@ -37,8 +37,8 @@
             ]
         },
         {
-            "id": "http://yoursite.com/honors/test-honors/",
-            "url": "http://yoursite.com/honors/test-honors/",
+            "id": "http://proteinlzl.github.io/honors/test-honors/",
+            "url": "http://proteinlzl.github.io/honors/test-honors/",
             "title": "test culture",
             "date_published": "2020-04-30T23:00:00.000Z",
             "content_html": "<h1 id=\"测试文档\"><a class=\"anchor\" href=\"#测试文档\">#</a> 测试文档</h1>\n<p>Orz</p>\n",
@@ -47,8 +47,8 @@
             ]
         },
         {
-            "id": "http://yoursite.com/person/test-person/",
-            "url": "http://yoursite.com/person/test-person/",
+            "id": "http://proteinlzl.github.io/person/test-person/",
+            "url": "http://proteinlzl.github.io/person/test-person/",
             "title": "test culture",
             "date_published": "2020-04-30T23:00:00.000Z",
             "content_html": "<h1 id=\"测试文档\"><a class=\"anchor\" href=\"#测试文档\">#</a> 测试文档</h1>\n<p>Orz</p>\n",
@@ -57,8 +57,8 @@
             ]
         },
         {
-            "id": "http://yoursite.com/teachers/test-teachers/",
-            "url": "http://yoursite.com/teachers/test-teachers/",
+            "id": "http://proteinlzl.github.io/teachers/test-teachers/",
+            "url": "http://proteinlzl.github.io/teachers/test-teachers/",
             "title": "test culture",
             "date_published": "2020-04-30T23:00:00.000Z",
             "content_html": "<h1 id=\"测试文档\"><a class=\"anchor\" href=\"#测试文档\">#</a> 测试文档</h1>\n<p>Orz</p>\n",
