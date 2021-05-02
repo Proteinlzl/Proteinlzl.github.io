@@ -189,14 +189,4 @@
         <category term="杰出人物" scheme="http://proteinlzl.github.io/categories/person/" />
         <updated>2020-04-30T23:00:00.000Z</updated>
     </entry>
-    <entry>
-        <id>http://proteinlzl.github.io/teachers/test-teachers/</id>
-        <title>test culture</title>
-        <link rel="alternate" href="http://proteinlzl.github.io/teachers/test-teachers/"/>
-        <content type="html">&lt;h1 id=&#34;测试文档&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#测试文档&#34;&gt;#&lt;/a&gt; 测试文档&lt;/h1&gt;
-&lt;p&gt;Orz&lt;/p&gt;
-</content>
-        <category term="师资力量" scheme="http://proteinlzl.github.io/categories/teachers/" />
-        <updated>2020-04-30T23:00:00.000Z</updated>
-    </entry>
 </feed>

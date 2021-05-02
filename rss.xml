@@ -192,15 +192,5 @@
 &lt;p&gt;Orz&lt;/p&gt;
  ]]></description>
         </item>
-        <item>
-            <guid isPermalink="true">http://proteinlzl.github.io/teachers/test-teachers/</guid>
-            <title>test culture</title>
-            <link>http://proteinlzl.github.io/teachers/test-teachers/</link>
-            <category term="师资力量" scheme="http://proteinlzl.github.io/categories/teachers/" />
-            <pubDate>Fri, 01 May 2020 07:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;测试文档&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#测试文档&#34;&gt;#&lt;/a&gt; 测试文档&lt;/h1&gt;
-&lt;p&gt;Orz&lt;/p&gt;
- ]]></description>
-        </item>
     </channel>
 </rss>
